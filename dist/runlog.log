@@ -1,0 +1,23 @@
+2020-09-07 11:04:34,891 sppech_merge_ui.py[line:38] INFO Excel Path: C:/Users/weiwei/Desktop/语料合成/语料.xlsx
+2020-09-07 11:04:38,406 sppech_merge_ui.py[line:49] INFO 结果保存路径： C:/Users/weiwei/Desktop/语料合成/语料
+2020-09-07 11:04:39,226 sppech_merge_ui.py[line:57] INFO 点击开始合成按钮，开始语料的合成
+2020-09-07 11:04:39,226 sppech_merge_ui.py[line:59] INFO 获取到的Excel路径: C:/Users/weiwei/Desktop/语料合成/语料.xlsx
+2020-09-07 11:04:39,227 sppech_merge_ui.py[line:62] INFO 结果保存路径： C:/Users/weiwei/Desktop/语料合成/语料
+2020-09-07 11:04:39,248 operate_excel.py[line:47] INFO 结果以字典格式保存：[[2, 1, '今天天气怎么样'], [3, 1, '青岛天气怎么样'], [4, 1, '西安天气怎么样']]
+2020-09-07 11:04:39,250 handle.py[line:20] INFO 百度合成语料...今天天气怎么样
+
+2020-09-07 11:04:39,252 aibaidu.py[line:21] INFO 开始调用百度接口进行语音合成
+2020-09-07 11:04:39,252 aibaidu.py[line:27] INFO 保存生成的wav文件路径： C:/Users/weiwei/Desktop/语料合成/语料\今天天气怎么样.wav
+2020-09-07 11:04:39,647 aibaidu.py[line:40] INFO 百度接口返回正确，保存成wav,并返回True
+2020-09-07 11:04:40,725 handle.py[line:20] INFO 百度合成语料...青岛天气怎么样
+
+2020-09-07 11:04:40,726 aibaidu.py[line:21] INFO 开始调用百度接口进行语音合成
+2020-09-07 11:04:40,727 aibaidu.py[line:27] INFO 保存生成的wav文件路径： C:/Users/weiwei/Desktop/语料合成/语料\青岛天气怎么样.wav
+2020-09-07 11:04:40,878 aibaidu.py[line:40] INFO 百度接口返回正确，保存成wav,并返回True
+2020-09-07 11:04:41,920 handle.py[line:20] INFO 百度合成语料...西安天气怎么样
+
+2020-09-07 11:04:41,922 aibaidu.py[line:21] INFO 开始调用百度接口进行语音合成
+2020-09-07 11:04:41,923 aibaidu.py[line:27] INFO 保存生成的wav文件路径： C:/Users/weiwei/Desktop/语料合成/语料\西安天气怎么样.wav
+2020-09-07 11:04:42,123 aibaidu.py[line:40] INFO 百度接口返回正确，保存成wav,并返回True
+2020-09-07 11:04:43,166 handle.py[line:28] INFO 语料合成结束，为语料生成txt文件...
+2020-09-07 11:04:43,173 handle.py[line:32] INFO txt文件生成完成,语料合成完成
