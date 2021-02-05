@@ -26,7 +26,7 @@ def baidu_speech_merge(tk_text,filepath=None,mp3fold=None):
         mp3fold=os.path.join(path,'Result')
     tk_text.insert(END,"语料合成结束，为语料生成txt文件...\n")
     logging.info("语料合成结束，为语料生成txt文件...")
-    handle_txt(mp3fold)
+    #handle_txt(mp3fold)
     tk_text.insert(END,"txt文件生成完成\n")
     tk_text.insert(END,"语料合成完成")
     logging.info("txt文件生成完成,语料合成完成")

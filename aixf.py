@@ -208,7 +208,7 @@ def main(text):
 
 if __name__ == "__main__":
 
-    main(text="你好")
+    main(text="你好1")
     # 测试时候在此处正确填写相关信息即可运行
     # wsParam = Ws_Param(APPID='5f44c5e8', APIKey='0ad0fd714b08f7620364ca6f896ea490',
     #                    APISecret='5e1cda46b5a9256d34bd7b678d2e118b',

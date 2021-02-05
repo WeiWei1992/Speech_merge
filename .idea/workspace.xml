@@ -15,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Monkey_test/MonkeyTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/send_http.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/lunwen.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lunwen/.idea/modules.xml" afterDir="false" />
@@ -35,6 +36,26 @@
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_chip/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Chip_yuliao/handle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_trans/trans_yuliao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aibaidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/aibaidu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aixf.py" beforeDir="false" afterPath="$PROJECT_DIR$/aixf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/warn-sppech_merge_ui.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/warn-sppech_merge_ui.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sppech_merge_ui/xref-sppech_merge_ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/sppech_merge_ui/xref-sppech_merge_ui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/creat_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handle.py" beforeDir="false" afterPath="$PROJECT_DIR$/handle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operate_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/operate_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public.py" beforeDir="false" afterPath="$PROJECT_DIR$/public.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/runlog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/你好.pcm" beforeDir="false" afterPath="$PROJECT_DIR$/你好.pcm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/语料.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/语料.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_10_59_11/uai_log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_00_41/uai_log.txt" beforeDir="false" />
@@ -125,9 +146,22 @@
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_11_07.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_12_36.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/Logs/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/Result/Logs/runlog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/Logs/runlog.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_10_28_48.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_10_58_38.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_13_06_36.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_44_17.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_58_00.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_59_46.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_01_57.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_02_48.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_10_34.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/config/log.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/config/log.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/operate_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/operate_excel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Voice_Tool/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/venv/pyvenv.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../click_geidao/click_mygeidao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../click_geidao/click_mygeidao.py" afterDir="false" />
     </list>
@@ -141,34 +175,43 @@
     <session id="669211011">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="md" value="1" />
+          <entry key="py" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="12" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4004" />
+          <entry key="py" value="5999" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4004" />
+          <entry key="Python" value="5999" />
         </counts>
       </usages-collector>
     </session>
@@ -176,19 +219,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/aixf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="1148">
+              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+              <folding>
+                <element signature="e#496#512#0" expanded="true" />
+                <element signature="e#4442#5267#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creat_txt.py">
+        <entry file="file://$PROJECT_DIR$/creat_txt_ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            <state relative-caret-position="1148">
+              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -196,34 +243,46 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aibaidu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="1428">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aixf.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mp3_to_wav.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-900">
-              <caret line="149" selection-start-line="149" selection-end-line="149" />
+            <state relative-caret-position="4032">
+              <caret line="165" selection-start-line="165" selection-end-line="165" selection-end-column="22" />
               <folding>
-                <element signature="e#496#512#0" expanded="true" />
+                <marker date="1611303847786" expanded="true" signature="753:2325" ph="..." />
+                <marker date="1611303847786" expanded="true" signature="1104:2325" ph="..." />
+                <marker date="1611303847786" expanded="true" signature="1808:1813" ph="..." />
+                <marker date="1611303847786" expanded="true" signature="1808:2325" ph="..." />
+                <marker date="1611303847786" expanded="true" signature="2359:2360" ph="..." />
+                <marker date="1611303847786" expanded="true" signature="4325:4328" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/operate_excel.py">
+        <entry file="file://$PROJECT_DIR$/public.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-672">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="1176">
+              <caret line="47" column="65" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="65" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <marker date="1597990837622" expanded="true" signature="347:352" ph="..." />
-                <marker date="1597990837622" expanded="true" signature="1268:1444" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mp3_to_wav_ui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -231,21 +290,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/handle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="112">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
-                <marker date="1598255589385" expanded="true" signature="336:341" ph="..." />
+                <marker date="1599526948356" expanded="true" signature="336:341" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sppech_merge_ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="1960">
+              <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
                 <marker date="1599455136059" expanded="true" signature="334:339" ph="..." />
@@ -257,10 +316,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/aip/speech.py">
+        <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="87" column="12" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="12" />
+            <state relative-caret-position="504">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/send_http.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -278,30 +346,38 @@
     <findStrings>
       <find>##</find>
       <find>connected</find>
+      <find>失败</find>
+      <find>所有窗帘开</find>
+      <find>转换失败</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/operate_excel.py" />
-        <option value="$PROJECT_DIR$/creat_txt.py" />
-        <option value="$PROJECT_DIR$/handle.py" />
-        <option value="$PROJECT_DIR$/aixf.py" />
-        <option value="$PROJECT_DIR$/aibaidu.py" />
         <option value="$PROJECT_DIR$/sppech_merge_ui.py" />
+        <option value="$PROJECT_DIR$/handle.py" />
+        <option value="$PROJECT_DIR$/creat_txt_ui.py" />
+        <option value="$PROJECT_DIR$/mp3_to_wav_ui.py" />
+        <option value="$PROJECT_DIR$/delete_mp3_ui.py" />
+        <option value="$PROJECT_DIR$/creat_txt.py" />
+        <option value="$PROJECT_DIR$/operate_excel.py" />
+        <option value="$PROJECT_DIR$/aibaidu.py" />
+        <option value="$PROJECT_DIR$/send_http.py" />
+        <option value="$PROJECT_DIR$/aixf.py" />
+        <option value="$PROJECT_DIR$/public.py" />
+        <option value="$PROJECT_DIR$/mp3_to_wav.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="170" />
-    <option name="width" value="1450" />
-    <option name="height" value="866" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1327" />
+    <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -338,28 +414,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sppech_merge_ui">
-    <configuration name="aibaidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Speech_merge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aibaidu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.mp3_to_wav">
     <configuration name="aixf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Speech_merge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -381,7 +436,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="creat_txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="mp3_to_wav" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Speech_merge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,7 +448,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creat_txt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp3_to_wav.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -402,7 +457,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="handle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="public" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Speech_merge" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -414,7 +469,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send_http" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Speech_merge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/send_http.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,19 +521,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.aibaidu" />
-      <item itemvalue="Python.handle" />
-      <item itemvalue="Python.creat_txt" />
       <item itemvalue="Python.sppech_merge_ui" />
+      <item itemvalue="Python.send_http" />
+      <item itemvalue="Python.mp3_to_wav" />
       <item itemvalue="Python.aixf" />
+      <item itemvalue="Python.public" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sppech_merge_ui" />
-        <item itemvalue="Python.aibaidu" />
+        <item itemvalue="Python.mp3_to_wav" />
+        <item itemvalue="Python.public" />
         <item itemvalue="Python.aixf" />
-        <item itemvalue="Python.handle" />
-        <item itemvalue="Python.creat_txt" />
+        <item itemvalue="Python.send_http" />
+        <item itemvalue="Python.sppech_merge_ui" />
       </list>
     </recent_temporary>
   </component>
@@ -478,12 +554,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11116965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31487513" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39630836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -504,9 +580,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/sppech_merge_ui.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/aibaidu.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -515,34 +591,10 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/aip/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="277" column="59" lean-forward="true" selection-start-line="277" selection-start-column="14" selection-end-line="277" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/aip/speech.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="87" column="12" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creat_txt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -553,55 +605,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aixf.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/aip/speech.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
-          <folding>
-            <element signature="e#496#512#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="524">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat_txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/operate_excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="1680">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete_mp3_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="57" column="57" selection-start-line="57" selection-start-column="57" selection-end-line="57" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aixf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1597990837622" expanded="true" signature="347:352" ph="..." />
-            <marker date="1597990837622" expanded="true" signature="1268:1444" ph="..." />
+            <element signature="e#496#512#0" expanded="true" />
+            <element signature="e#4442#5267#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat_txt_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1148">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aibaidu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        <state relative-caret-position="1428">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="47" column="65" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp3_to_wav_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/handle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="112">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
-            <marker date="1598255589385" expanded="true" signature="336:341" ph="..." />
+            <marker date="1599526948356" expanded="true" signature="336:341" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sppech_merge_ui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="1960">
+          <caret line="71" column="43" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
             <marker date="1599455136059" expanded="true" signature="334:339" ph="..." />
             <marker date="1599455136059" expanded="true" signature="504:540" ph="..." />
             <marker date="1599455136059" expanded="true" signature="1872:2593" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp3_to_wav.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4032">
+          <caret line="165" selection-start-line="165" selection-end-line="165" selection-end-column="22" />
+          <folding>
+            <marker date="1611303847786" expanded="true" signature="753:2325" ph="..." />
+            <marker date="1611303847786" expanded="true" signature="1104:2325" ph="..." />
+            <marker date="1611303847786" expanded="true" signature="1808:1813" ph="..." />
+            <marker date="1611303847786" expanded="true" signature="1808:2325" ph="..." />
+            <marker date="1611303847786" expanded="true" signature="2359:2360" ph="..." />
+            <marker date="1611303847786" expanded="true" signature="4325:4328" ph="..." />
           </folding>
         </state>
       </provider>

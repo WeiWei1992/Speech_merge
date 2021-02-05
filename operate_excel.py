@@ -54,7 +54,14 @@ def write_excel(action,result,filepath=None):
         filepath="语料.xlsx"
     wb=load_workbook(filepath)
     sheet=wb.active
-    sheet.cell(action[0],action[1]+1).value=result
+    red_fill = PatternFill(fill_type='solid', fgColor="ff441f")
+    green_file = PatternFill(fill_type='solid', fgColor="16feb5")
+    if result:
+        sheet.cell(row=action[0],column=action[1]+1,value=result).fill=green_file
+    else:
+        sheet.cell(row=action[0], column=action[1] + 1, value=result).fill = red_fill
+
+    #sheet.cell(action[0],action[1]+1).value=result
     wb.save(filepath)
 
 

@@ -19,6 +19,7 @@ def handle_txt(path):
         print("files: ",files)
         for file in files:
             write_txt(root,file)
+    print("txt生成完成..................")
 
     # root,dirs,files=os.walk(path)
     # print("root: ",root)

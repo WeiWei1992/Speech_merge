@@ -21,15 +21,15 @@ def baidu_mp3(text,foldpath=None):
     logging.info("开始调用百度接口进行语音合成")
     #file=
     if not foldpath:
-        filepath=os.path.join(path,'Result/'+text+'.wav')
+        filepath=os.path.join(path,'Result/'+text+'.mp3')
     else:
-        filepath=os.path.join(foldpath,text+'.wav')
-    logging.info("保存生成的wav文件路径： "+str(filepath))
+        filepath=os.path.join(foldpath,text+'.mp3')
+    logging.info("保存生成的mp3文件路径： "+str(filepath))
     try:
         result=client.synthesis(text,'zh',1,{
-            'vol':12,
-            'per':106,
-            'aue':5118,
+            'vol':15,
+            'per':0,  #0女  1男
+            #'aue':5118,
         })
     except Exception as e:
         logging.error("百度接口报错，出现异常，异常信息如下,并返回False")
@@ -37,7 +37,7 @@ def baidu_mp3(text,foldpath=None):
         return False
 
     if not isinstance(result,dict):
-        logging.info("百度接口返回正确，保存成wav,并返回True")
+        logging.info("百度接口返回正确，保存成mp3,并返回True")
         with open(filepath,'wb') as f:
             f.write(result)
         return True
@@ -47,7 +47,7 @@ def baidu_mp3(text,foldpath=None):
 
 
 if __name__=="__main__":
-    baidu_mp3("你好,小优，106")
+    baidu_mp3("为什么这么黑还不开灯")
 
 
 # result  = client.synthesis('你好百度,我是小优', 'zh', 1, {
